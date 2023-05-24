@@ -10,6 +10,10 @@
   "categories": [
     "Themes"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Maycomwill/illusion-theme"
+  },
   "keywords": [
     "green",
     "dark theme",
