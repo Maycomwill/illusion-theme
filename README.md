@@ -5,10 +5,10 @@ A theme based on [Evondev Dracula Darker Theme](https://marketplace.visualstudio
 ##  Screenshots
 
 <div align="center">
-  <img src ="https://github.com/Maycomwill/illusion-theme/blob/main/public/1.jpg?raw=true" width="300px" />
+  <img src ="https://github.com/Maycomwill/illusion-theme/blob/main/public/1.jpg?raw=true" width="700px" />
 </div>
 <div align="center">
-  <img src ="https://github.com/Maycomwill/illusion-theme/blob/main/public/2.jpg?raw=true" width="300px" />
+  <img src ="https://github.com/Maycomwill/illusion-theme/blob/main/public/2.jpg?raw=true" width="700px" />
 </div>
 
 ##  Instalation
