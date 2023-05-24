@@ -1,0 +1,29 @@
+{
+  "name": "illusion-theme",
+  "displayName": "Illusion Theme",
+  "description": "A Maycom's vscode theme",
+  "version": "0.0.1",
+  "publisher": "MaycomWillams",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "green",
+    "dark theme",
+    "dark green",
+    "yellow",
+    "illusion"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Illusion theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Illusion theme-color-theme.json"
+      }
+    ]
+  }
+}
